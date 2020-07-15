@@ -35,6 +35,10 @@ h1 {
 	margin: auto 0 auto auto;
 }
 
+.body {
+	margin: 8px;
+}
+
 #chicken {
 	background: #ff5050;
 }
@@ -48,7 +52,7 @@ h1 {
 	background: #e6e600;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
 	.head {
 		width: 100%;
 	}
