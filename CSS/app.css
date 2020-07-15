@@ -5,9 +5,11 @@ h1 {
 	text-align: center;
 }
 
-h4 {
-	width: 75%;
-	padding: 0 auto;
+.hh {
+	/*width: 25%;
+	height : 20%;*/
+	/*padding: auto;*/
+	/*margin: auto auto auto 0;*/
 	text-align: center;
 }
 
@@ -25,11 +27,12 @@ h4 {
 .title {
 	width: 25%;
 	height: 20%;
-	padding-right: 0;
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
-	border-top: 2px solid black;
-	margin: 0 0 0 auto;
+	border: 2px solid black;
+	/*border-top: 2px solid black;*/
+	text-align: center;
+	margin: auto 0 auto auto;
 }
 
 #chicken {
